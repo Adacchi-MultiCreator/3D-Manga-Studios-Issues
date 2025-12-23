@@ -85,7 +85,7 @@ Thank you for supporting **3D Manga Studios**.
 
 Your feedback directly helps improve the add-on for everyone.
 
-— Arstchi
+— あだっち / Adacchi-MultiCreator
 
 ---
 
@@ -176,4 +176,4 @@ Your feedback directly helps improve the add-on for everyone.
 
 皆さまからのフィードバックは、アドオン改善のための大きな助けになります。
 
-— Arstchi
+— あだっち / Adacchi-MultiCreator
